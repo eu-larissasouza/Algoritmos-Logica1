@@ -1,16 +1,17 @@
-programa 
+programa
 {
 	// Curso Udemy: Algoritmos e Lógica I
 	// Autor (a): Larissa Souza
-	// Data atual: 30/06/2021
+	// Data atual: 05/07/2021
 	
 	funcao inicio()
 	{
 		inteiro nota
-
-		nota = 100
+		real nota2, media
+		caracter ch
+		cadeia nome
+		logico classificado //
 		
-		escreva("Resultado:\t", nota)
 	}
 }
 /* $$$ Portugol Studio $$$ 
@@ -18,7 +19,7 @@ programa
  * Esta seção do arquivo guarda informações do Portugol Studio.
  * Você pode apagá-la se estiver utilizando outro editor.
  * 
- * @POSICAO-CURSOR = 191; 
+ * @POSICAO-CURSOR = 223; 
  * @PONTOS-DE-PARADA = ;
  * @SIMBOLOS-INSPECIONADOS = ;
  * @FILTRO-ARVORE-TIPOS-DE-DADO = inteiro, real, logico, cadeia, caracter, vazio;
